@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Kommunicate
 
 class ViewController: UIViewController {
 
